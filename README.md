@@ -34,6 +34,9 @@ I am working on...
 
 ### 🌱 I’m currently learning ...
 
+ - Time series analysis
+ - Quantum computing
+
 <br/>
 
 ### 💬 Ask me about ...
