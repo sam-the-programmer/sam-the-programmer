@@ -25,6 +25,7 @@ I am working on...
  - 📈 Stock Search: An innovative new way to view stocks - into the past and forward, to the future.
  - 🤖 ChatBrain: An intelligent AI chat bot with a limited response vocabulary.
  - 💻 Multiple programming languages.
+ - 📊 A Github.io data science blog/website.
  - 🔊 A smart voice assistant.
  - ▶️ R and Visual Basic Runner extensions for VS Code
  - 🎨 CSS Templates for quicker webdev styling.
