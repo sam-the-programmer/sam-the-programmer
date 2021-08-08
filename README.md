@@ -25,10 +25,11 @@ I am working on...
  - 📈 Stock Search: An innovative new way to view stocks - into the past and forward, to the future.
  - 🤖 ChatBrain: An intelligent AI chat bot with a limited response vocabulary.
  - 💻 Multiple programming languages.
- - 📊 A Github.io data science blog/website.
+ - 🌐 A Github.io data science blog/website.
  - 🔊 A smart voice assistant.
  - ▶️ R and Visual Basic Runner extensions for VS Code
  - 🎨 CSS Templates for quicker webdev styling.
+ - 📊 A Python SQL interaction module wrapper for more ease when working with SQL
  - 🧠 A brand new Python neural network module. (Unreleased, so the name shall remain mysterious...)
 
 <br/>
