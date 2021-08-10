@@ -21,8 +21,8 @@ I am an enthusiast in data science and machine learning, working on projects fro
  - 📉 Machine learning
  - Deep learning
  - 📋 Data science
- - Quantum computing
- - Robotics
+ - ⚛ Quantum computing
+ - 🦾 Robotics
 
 <br/>
 
