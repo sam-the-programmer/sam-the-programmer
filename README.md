@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 I am an enthusiast in data science and machine learning, working on projects from stock market predictors to intelligent chatbots!
 
+### 👀 I am interested in ...
+ - 📉 Machine learning
+ - Deep learning
+ - 📋 Data science
+ - Quantum computing
+ - Robotics
+
 <br/>
 
 ### 🔭 What I am working on ...
