@@ -19,7 +19,7 @@ I am an enthusiast in data science and machine learning, working on projects fro
 
 ### 👀 I am interested in ...
  - 📉 Machine learning
- - Deep learning
+ - 🧠 Deep learning
  - 📋 Data science
  - ⚛ Quantum computing
  - 🦾 Robotics
@@ -37,7 +37,7 @@ I am working on...
  - ▶️ R and Visual Basic Runner extensions for VS Code
  - 🎨 CSS Templates for quicker webdev styling.
  - 📊 A Python SQL interaction module wrapper for more ease when working with SQL
- - 🧠 A brand new Python neural network module. (Unreleased, so the name shall remain mysterious...)
+ - 💭 A brand new Python neural network module. (Unreleased, so the name shall remain mysterious...)
 
 <br/>
 
