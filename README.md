@@ -68,6 +68,6 @@ I am working on...
 <div style="float:left;">
 <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Password-Classified&theme=dark" style="float:left;"/>
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark" style="float:left;"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark&langs_count=10"/>
 
 </div>
