@@ -36,7 +36,7 @@ I am working on...
  - 🔊 A smart voice assistant.
  - ▶️ R and Visual Basic Runner extensions for VS Code
  - 🎨 CSS Templates for quicker webdev styling.
- - 📊 A Python SQL interaction module wrapper for more ease when working with SQL
+ - 📊 A Python database interaction module wrapper for more ease when working with SQL, csv and others.
  - 🧠 A brand new Python neural network module. (Unreleased, so the name shall remain mysterious...)
 
 <br/>
