@@ -1,4 +1,12 @@
 ### Hi there 👋, Welcome
+<br/>
+<div style="float:left;">
+<img src="https://badges.pufler.dev/gists/Password-Classified/"/>
+ <img src="https://badges.pufler.dev/years/Password-Classified/"/>
+ <img src="https://badges.pufler.dev/repos/Password-Classified/"/>
+ <img src="https://badges.pufler.dev/commits/Password-Classified/"/>
+ </div>
+<br/>
 
 <!--
 **Password-Classified/password-classified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
