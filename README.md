@@ -4,7 +4,7 @@
 <img src="https://badges.pufler.dev/gists/Password-Classified/"/>
  <img src="https://badges.pufler.dev/years/Password-Classified/"/>
  <img src="https://badges.pufler.dev/repos/Password-Classified/"/>
- <img src="https://badges.pufler.dev/commits/Password-Classified/"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Password-Classified/"/>
  </div>
 <br/>
 
