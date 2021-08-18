@@ -74,7 +74,7 @@ I am working on...
 <br/>
 
 <div style="float:left;">
-<div style="float:left;">
+<div style="float:none;">
 <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Password-Classified&theme=dark" style="float:left;"/>
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark" style="float:left;"/>
 </div>
