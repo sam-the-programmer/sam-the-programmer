@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome
 <br/>
 <div style="float:left;">
-<img src="https://badges.pufler.dev/gists/Password-Classified/"/>
+ <img src="https://badges.pufler.dev/gists/Password-Classified/"/>
  <img src="https://badges.pufler.dev/years/Password-Classified/"/>
  <img src="https://badges.pufler.dev/repos/Password-Classified/"/>
  <img src="https://badges.pufler.dev/commits/monthly/Password-Classified/"/>
@@ -74,9 +74,9 @@ I am working on...
 <br/>
 
 <div style="float:left;">
+<div style="float:left;">
 <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Password-Classified&theme=dark" style="float:left;"/>
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark" style="float:left;"/>
+</div>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark&langs_count=10"/>
- 
-
 </div>
