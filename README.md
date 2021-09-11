@@ -45,7 +45,7 @@ I am working on...
  - ▶️ R and Visual Basic Runner extensions for VS Code
  - 🎨 CSS Templates for quicker webdev styling.
  - 📊 A Python database interaction module wrapper for more ease when working with SQL, csv and others.
- - 🧠 A brand new Python neural network module. (Unreleased, so the name shall remain mysterious...)
+ - 🧠 easyNeuron - A brand new Python neural network module.
 
 <br/>
 
