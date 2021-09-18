@@ -6,6 +6,7 @@
  <img src="https://badges.pufler.dev/years/Password-Classified/"/>
  <img src="https://badges.pufler.dev/repos/Password-Classified/"/>
  <img src="https://badges.pufler.dev/commits/monthly/Password-Classified/"/>
+ <img src="https://badges.pufler.dev/visits/Password-Classified/password-classified"/>
  </div>
 <br/>
 
