@@ -83,6 +83,8 @@ I am working on...
     <a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /></a>
     <a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" /></a>
     <a href="https://guides.github.com/features/mastering-markdown/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" /></a>
+    <a href="https://visualstudio.microsoft.com/vs/features/net-development/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Public domain VB.NET Logo: Attribution to Jason Groce, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
+    <a href="https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Public domain Apple Logo: Attribution to Original:  Rob Janoff, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a><span>script</span>
 </div>
 </details>
 
@@ -105,15 +107,31 @@ I am working on...
 </div>
 </details>
 
+<details>
+<summary>💡 Learning/ Want to Learn...</summary>
+<div>
+    <h2>Learning...</h2>
+    <br/>
+    <a href="https://www.research.ibm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit Logo, attribution: IBM Research, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /></a>
+    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
+    <br/>
+    <br/>
+    <h2>Want to learn...</h2>
+    <br/>
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" /></a>
+</div>
+</details>
+
 <br/>
 <br/>
 <br/>
 <br/>
-<!-- 
+
 <div style="float:left;">
 <div style="float:none;">
 <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Password-Classified&theme=dark" style="float:left;"/>
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark" style="float:left;"/>
 </div>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark&langs_count=10"/>
-</div> -->
+</div>
