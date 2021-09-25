@@ -7,6 +7,7 @@
  <img src="https://badges.pufler.dev/repos/Password-Classified/"/>
  <img src="https://badges.pufler.dev/commits/monthly/Password-Classified/"/>
  <img src="https://badges.pufler.dev/visits/Password-Classified/password-classified"/>
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/Password-Classified?style=social">
  </div>
 <br/>
 
