@@ -117,7 +117,7 @@ I am working on...
     <a href="https://www.research.ibm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit Logo, attribution: IBM Research, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
     <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /></a>
     <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
- <a href="https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Public domain Apple Logo: Attribution to Original:  Rob Janoff, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a><span>script</span>
+    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" /></a>
     <br/>
     <br/>
     <h2>Want to learn...</h2>
