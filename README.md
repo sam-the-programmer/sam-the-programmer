@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 I am an enthusiast in data science and machine learning, working on projects from stock market predictors to intelligent chatbots!
 
 ### 👀 I am interested in ...
@@ -128,6 +129,16 @@ I am working on...
 
 <br/>
 <br/>
+<br/>
+<br/>
+
+## Find me on...
+
+<div float="left">
+<a href="https://stackoverflow.com/users/15515166/password-classified"><img src="https://stackoverflow.com/users/flair/15515166.png?theme=dark" width="208" height="58" alt="profile for Password-Classified at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Password-Classified at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a></a>
+</div>
+
 <br/>
 <br/>
 
