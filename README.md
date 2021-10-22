@@ -136,7 +136,7 @@ I am working on...
 
 <div float="left">
 <a href="https://stackoverflow.com/users/15515166/password-classified"><img src="https://stackoverflow.com/users/flair/15515166.png?theme=dark" width="208" height="58" alt="profile for Password-Classified at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Password-Classified at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<a></a>
+<a href="https://www.kaggle.com/passwordclassified"><img src="./Images/kaggle.png" width="208" height="58"></a>
 </div>
 
 <br/>
