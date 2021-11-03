@@ -45,6 +45,7 @@
     <a href="https://visualstudio.microsoft.com/vs/features/net-development/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Public domain VB.NET Logo: Attribution to Jason Groce, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" /></a>
     <a href="https://github.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="50" /></a>
+    <a href="https://codacy.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codacy.svg" width="50" /></a>
     <a href="https://guides.github.com/features/mastering-markdown/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" /></a>
     </div>
     <br>
