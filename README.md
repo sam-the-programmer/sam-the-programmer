@@ -79,6 +79,6 @@
     <br>
     <div>
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark"/>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark&langs_count=3"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark&langs_count=5"/>
     </div>
 </section>
