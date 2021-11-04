@@ -14,6 +14,7 @@
             <li>🧠 easyNeuron - A brand new Python neural network module.</li>
         </ul>
         <br>
+    <hr>
 
 ## 💬 Ask me about ...
 
