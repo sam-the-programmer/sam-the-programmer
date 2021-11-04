@@ -4,6 +4,7 @@
     <p>
         Hi there! I am an enthusiast in machine and deep learning, quantum computing and robotics, mainly a user of Go and Python. I am currently working on...
         <ul>
+        <hr>
         <br>
             <li>📈 Stock Search: An innovative new way to view stocks - into the past and forward, to the future.</li>
             <li>💻 Multiple programming languages.</li>
@@ -78,7 +79,9 @@
     <h2>My stats...</h2>
     <br>
     <div>
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark"/>
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=dark&langs_count=3"/>
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=password-classified&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=dark"/>
+    <img alt="Streak" src="https://activity-graph.herokuapp.com/graph?username=Password-Classified&theme=react-dark&area=true&custom_title=My%20Contribution%20Graph" width="700"/>
     </div>
 </section>
