@@ -43,8 +43,9 @@
     <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" /></a>
     <a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /></a>
     <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" /></a>
-    <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.png" width="50" /></a>
     <a href="https://numba.pydata.org"><img src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-blue-icon-rgb.svg" width="50" /></a>
+    <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.png" width="50" /></a>
+    <a href="https://plotly.com/python/"><img src="./Images/plotly.svg" width="50" /></a>
     <a href="https://code.visualstudio.com/Download"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" /></a>
     <a href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="50" /></a>
     <a href="https://visualstudio.microsoft.com/vs/features/net-development/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Public domain VB.NET Logo: Attribution to Jason Groce, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
