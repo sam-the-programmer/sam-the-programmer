@@ -1,8 +1,7 @@
 <section align="center">
     <h1>Hello There! &nbsp&nbsp&nbsp<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35"></h1>
     <br>
-    <p>
-        Hi there! I am an enthusiast in machine and deep learning, quantum computing and robotics, mainly a user of Go and Python. I am currently working on...
+    <p>Hi there! I am an enthusiast in machine and deep learning, quantum computing and robotics, mainly a user of Go and Python. I hope that some of my software will have a positive impact on the world, so we, at my organization <a href="https://neuron-ai.github.io/">Neuron AI</a> hope you may <a href="https://neuron-ai.github.io/support/">dontate to charities</a> if you like our work. I am currently working on...
         <ul>
         <hr>
         <br>
@@ -14,6 +13,7 @@
             <li>🧠 easyNeuron - A brand new Python neural network module.</li>
         </ul>
         <br>
+    <hr>
 
 ## 💬 Ask me about ...
 
