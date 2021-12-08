@@ -39,6 +39,7 @@
     <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
     <a href="https://www.scikit-learn.org/"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="70" />
     <a href="https://docs.manim.community/en/stable/"><img src="https://docs.manim.community/en/stable/_static/manim-logo-sidebar.svg" width="110" /></a>
+    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
     <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /></a>
     <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" /></a>
     <a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /></a>
@@ -46,9 +47,9 @@
     <a href="https://numba.pydata.org"><img src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-blue-icon-rgb.svg" width="50" /></a>
     <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.png" width="50" /></a>
     <a href="https://plotly.com/python/"><img src="./Images/plotly.svg" width="50" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" /></a>
     <a href="https://code.visualstudio.com/Download"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" /></a>
     <a href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="50" /></a>
-    <a href="https://visualstudio.microsoft.com/vs/features/net-development/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Public domain VB.NET Logo: Attribution to Jason Groce, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" /></a>
     <a href="https://www.ursinaengine.org/"><img src="https://raw.githubusercontent.com/pokepetter/ursina/master/ursina/textures/ursina_wink_0000.png" width="50" /></a>
     <a href="https://github.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="50" /></a>
@@ -60,6 +61,7 @@
     <h2>What I'm Learning...</h2>
     <br>
     <div>
+    <a href="https://visualstudio.microsoft.com/vs/features/net-development/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Public domain VB.NET Logo: Attribution to Jason Groce, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
     <a href="https://www.research.ibm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit Logo, attribution: IBM Research, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
     <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /></a>
     <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" /></a>
