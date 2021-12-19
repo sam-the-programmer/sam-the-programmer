@@ -9,7 +9,7 @@
             <li>💻 Multiple programming languages.</li>
             <li>🤖 ChatBrain: An intelligent AI chat bot with a diverse response vocabulary.</li>
             <li>▶️ Language Runner extensions for VS Code</li>
-            <li>🎨 CSS Templates for quicker webdev styling.</li>
+            <li>🎨 superCSS, a TailwindCSS-like framework.</li>
             <li>🧠 easyNeuron - A brand new Python neural network module.</li>
         </ul>
         <br>
