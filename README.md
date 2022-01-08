@@ -88,7 +88,7 @@
     <h2>My stats...</h2>
     <br>
     <div>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=light&langs_count=9&layout=compact&border=false"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=light&langs_count=10&layout=compact&border=false"/>
     <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=password-classified&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=light&border=false"/>
     </div>
