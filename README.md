@@ -69,11 +69,11 @@
     <br>
     <hr>
     <div>
-    <img src="https://badges.pufler.dev/gists/Password-Classified/"/>
-    <img src="https://badges.pufler.dev/years/Password-Classified/"/>
-    <img src="https://badges.pufler.dev/repos/Password-Classified/"/>
-    <img src="https://badges.pufler.dev/visits/Password-Classified/password-classified"/>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Password-Classified?style=social">
+    <img src="https://badges.pufler.dev/gists/sam-the-programmer/"/>
+    <img src="https://badges.pufler.dev/years/sam-the-programmer/"/>
+    <img src="https://badges.pufler.dev/repos/sam-the-programmer/"/>
+    <img src="https://badges.pufler.dev/visits/sam-the-programmer/sam-the-programmer"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sam-the-programmer?style=social">
     </div>
     <br>
     <h2>Find me on...</h2>
@@ -88,8 +88,8 @@
     <h2>My stats...</h2>
     <br>
     <div>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Password-Classified&theme=light&langs_count=10&layout=compact&border=false"/>
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=password-classified&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=password-classified&show_icons=true&locale=en&theme=light&border=false"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-programmer&theme=light&langs_count=10&layout=compact&border=false"/>
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sam-the-programmer&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sam-the-programmer&show_icons=true&locale=en&theme=light&border=false"/>
     </div>
 </section>
