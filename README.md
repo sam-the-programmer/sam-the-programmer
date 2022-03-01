@@ -78,7 +78,7 @@
     <div>
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-programmer&theme=light&langs_count=10&layout=compact&border=false"/>
     <br>
-    <img alt="Streak"  width="250" src="https://github-readme-streak-stats.herokuapp.com?user=sam-the-programmer&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
-    <img alt="My Github Stats" width="250" src="https://github-readme-stats.vercel.app/api?username=sam-the-programmer&show_icons=true&locale=en&theme=light&border=false"/>
+    <img alt="Streak"  width="350" src="https://github-readme-streak-stats.herokuapp.com?user=sam-the-programmer&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img alt="My Github Stats" width="350" src="https://github-readme-stats.vercel.app/api?username=sam-the-programmer&show_icons=true&locale=en&theme=light&border=false"/>
     </div>
 </section>
