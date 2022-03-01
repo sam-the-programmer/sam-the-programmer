@@ -1,18 +1,7 @@
 <section align="center">
     <h1>Hello There! &nbsp&nbsp&nbsp<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35"></h1>
     <br>
-    <p>Hi there! I am an enthusiast in machine and deep learning, quantum computing and robotics, mainly a user of Go and Python. I hope that some of my software will have a positive impact on the world, so we, at my organization <a href="https://neuron-ai.github.io/">Neuron AI</a> hope you may <a href="https://neuron-ai.github.io/support/">dontate to charities</a> if you like our work. I am currently working on...
-        <ul>
-        <hr>
-        <br>
-            <li>📈 Stock Search: An innovative new way to view stocks - into the past and forward, to the future.</li>
-            <li>💻 Multiple programming languages.</li>
-            <li>🤖 ChatBrain: An intelligent AI chat bot with a diverse response vocabulary.</li>
-            <li>▶️ Language Runner extensions for VS Code</li>
-            <li>🎨 superCSS, a TailwindCSS-like framework.</li>
-            <li>🧠 easyNeuron - A brand new Python neural network module.</li>
-        </ul>
-        <br>
+    <p>Hi there! I am an enthusiast in deep learning, quantum computing and robotics, mainly a user of Go and Python. I hope that some of my software will have a positive impact on the world, so we, at my GitHub organization <a href="https://neuron-ai.github.io/">Neuron AI</a> hope you may <a href="https://neuron-ai.github.io/support/">dontate to charities</a> if you like our work.
     <hr>
 
 ## 💬 Ask me about ...
@@ -21,11 +10,10 @@
 - I am happy to help on any issues on backpropagation or any other neural network aspects when writing from scratch, since I found issues with finding efficient explanations when I began learning about it.
 
 <br>
-<br>
 
 ## 📫 How to reach me ...
 
-- Use the discussions on my **"password-classified"** repository, where this is from.
+- Use the discussions on my **"sam-the-programmer"** repository, where this is from.
 - Raise issues or discussion topics on my repositories on any specific linked issue/query.
     </p>
     <br>
@@ -39,7 +27,6 @@
     <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
     <a href="https://www.scikit-learn.org/"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="70" />
     <a href="https://docs.manim.community/en/stable/"><img src="https://docs.manim.community/en/stable/_static/manim-logo-sidebar.svg" width="110" /></a>
-    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
     <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /></a>
     <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" /></a>
     <a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /></a>
@@ -65,6 +52,7 @@
     <a href="https://www.research.ibm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit Logo, attribution: IBM Research, Public domain, via Wikimedia Commons (Not legally required attribution)" width="50" /></a>
     <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /></a>
     <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" /></a>
+    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
     </div>
     <br>
     <hr>
@@ -89,7 +77,8 @@
     <br>
     <div>
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-programmer&theme=light&langs_count=10&layout=compact&border=false"/>
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=sam-the-programmer&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sam-the-programmer&show_icons=true&locale=en&theme=light&border=false"/>
+    <br>
+    <img alt="Streak"  width="250" src="https://github-readme-streak-stats.herokuapp.com?user=sam-the-programmer&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img alt="My Github Stats" width="250" src="https://github-readme-stats.vercel.app/api?username=sam-the-programmer&show_icons=true&locale=en&theme=light&border=false"/>
     </div>
 </section>
