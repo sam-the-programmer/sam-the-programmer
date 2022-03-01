@@ -21,6 +21,7 @@
     <h2>Technologies I use...</h2>
     <br>
     <div>
+    <a href="https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
     <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" /></a>
     <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" /></a>
     <a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" /></a>
@@ -34,7 +35,6 @@
     <a href="https://numba.pydata.org"><img src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-blue-icon-rgb.svg" width="50" /></a>
     <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.png" width="50" /></a>
     <a href="https://plotly.com/python/"><img src="./Images/plotly.svg" width="50" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" /></a>
     <a href="https://code.visualstudio.com/Download"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" /></a>
     <a href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="50" /></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" /></a>
@@ -60,7 +60,7 @@
     <img src="https://badges.pufler.dev/gists/sam-the-programmer/"/>
     <img src="https://badges.pufler.dev/years/sam-the-programmer/"/>
     <img src="https://badges.pufler.dev/repos/sam-the-programmer/"/>
-    <img src="https://badges.pufler.dev/visits/sam-the-programmer/sam-the-programmer"/>
+    <img src="https://komarev.com/ghpvc/?username=sam-the-programmer&color=green"/>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sam-the-programmer?style=social">
     </div>
     <br>
