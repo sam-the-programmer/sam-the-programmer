@@ -20,14 +20,14 @@
     <hr>
 
     <h2>Languages I use...</h2>
-    <a href="https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
-    <a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" /></a>
-    <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
-    <a href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /></a>
-    <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" /></a>
-    <a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /></a>
-    <a href="https://guides.github.com/features/mastering-markdown/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://guides.github.com/features/mastering-markdown/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" /></a>
     
     <br>
     <hr>
@@ -35,23 +35,23 @@
     <h2>Technologies I use...</h2>
     <br>
     <div>
-    <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" /></a>
-    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" /></a>
-    <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="50" /></a>
-    <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
-    <a href="https://www.scikit-learn.org/"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="70" />
-    <a href="https://docs.manim.community/en/stable/"><img src="https://docs.manim.community/en/stable/_static/manim-logo-sidebar.svg" width="110" /></a>
-    <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" /></a>
-    <a href="https://numba.pydata.org"><img src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-blue-icon-rgb.svg" width="50" /></a>
-    <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.png" width="50" /></a>
-    <a href="https://plotly.com/python/"><img src="./Images/plotly.svg" width="50" /></a>
-    <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /></a>
-    <a href="https://code.visualstudio.com/Download"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" /></a>
-    <a href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="50" /></a>
-    <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" /></a>
-    <a href="https://www.ursinaengine.org/"><img src="https://raw.githubusercontent.com/pokepetter/ursina/master/ursina/textures/ursina_wink_0000.png" width="50" /></a>
-    <a href="https://github.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="50" /></a>
-    <a href="https://codacy.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codacy.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://svelte.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.scikit-learn.org/"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="70" />
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://docs.manim.community/en/stable/"><img src="https://docs.manim.community/en/stable/_static/manim-logo-sidebar.svg" width="110" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://numba.pydata.org"><img src="https://raw.githubusercontent.com/numba/numba/master/docs/_static/numba-blue-icon-rgb.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.png" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://plotly.com/python/"><img src="./Images/plotly.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://code.visualstudio.com/Download"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://www.ursinaengine.org/"><img src="https://raw.githubusercontent.com/pokepetter/ursina/master/ursina/textures/ursina_wink_0000.png" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://github.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" width="50" /></a>
+    <a style="background:white;height:100%;border-radius:1rem;padding:5px;" href="https://codacy.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codacy.svg" width="50" /></a>
     </div>
     <br>
     <hr>
