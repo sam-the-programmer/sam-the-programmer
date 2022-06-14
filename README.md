@@ -1,4 +1,11 @@
-<section align="center">
+<section style="text-align:center;" align="center">
+    <div>
+    <img src="https://badges.pufler.dev/gists/sam-the-programmer/"/>
+    <img src="https://badges.pufler.dev/years/sam-the-programmer/"/>
+    <img src="https://badges.pufler.dev/repos/sam-the-programmer/"/>
+    <img src="https://komarev.com/ghpvc/?username=sam-the-programmer&color=green"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sam-the-programmer?style=social">
+    </div>
     <h1>Hello There! &nbsp&nbsp&nbsp<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35"></h1>
     <br>
     <p>Hi there! I am an enthusiast in deep learning, quantum computing and robotics, mainly a user of Go and Python. I hope that some of my software will have a positive impact on the world, so we, at my GitHub organization <a href="https://neuron-ai.github.io/">Neuron AI</a> hope you may <a href="https://neuron-ai.github.io/support/">dontate to charities</a> if you like our work.
@@ -64,13 +71,7 @@
     </div>
     <br>
     <hr>
-    <div>
-    <img src="https://badges.pufler.dev/gists/sam-the-programmer/"/>
-    <img src="https://badges.pufler.dev/years/sam-the-programmer/"/>
-    <img src="https://badges.pufler.dev/repos/sam-the-programmer/"/>
-    <img src="https://komarev.com/ghpvc/?username=sam-the-programmer&color=green"/>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sam-the-programmer?style=social">
-    </div>
+    
     <br>
     <h2>Find me on...</h2>
     <br>
