@@ -1,8 +1,5 @@
 <section style="text-align:center;" align="center">
     <div>
-    <img src="https://badges.pufler.dev/gists/sam-the-programmer/"/>
-    <img src="https://badges.pufler.dev/years/sam-the-programmer/"/>
-    <img src="https://badges.pufler.dev/repos/sam-the-programmer/"/>
     <img src="https://komarev.com/ghpvc/?username=sam-the-programmer&color=green"/>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sam-the-programmer?style=social">
     </div>
