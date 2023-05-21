@@ -1,3 +1,3 @@
 tasks:
   build:
-    - ffmpeg -f image2 -framerate 12 -i images/build/image_%d.png -loop 0 image.gif
+    - ffmpeg -f image2 -framerate 8 -i images/build/image_%d.png -loop 0 image.gif
